@@ -1,0 +1,35 @@
+{
+    "producto":
+    [
+        {
+            "Id":1,
+            "Descripcion":"Mouse",
+            "Precio":"30.00"
+        },
+        {
+            "Id":2,
+            "Descripcion":"Audifono",
+            "Precio":"50.00"
+        },
+        {
+            "Id":3,
+            "Descripcion":"Pantalla",
+            "Precio":"80.00"
+        },
+        {
+            "Id":4,
+            "Descripcion":"Memoria RAM",
+            "Precio":"70.00"
+        },
+        {
+            "Id":5,
+            "Descripcion":"Impresora",
+            "Precio":"100.00"
+        },
+        {
+            "Id":6,
+            "Descripcion":"Cargador",
+            "Precio":"10.00"
+        }
+    ]
+}
